@@ -1,0 +1,24 @@
+{
+  "name": "-nodejs---the-complete-guide",
+  "version": "1.0.0",
+  "description": "Nodejs guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baophung445/-NodeJS---The-Complete-Guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baophung445/-NodeJS---The-Complete-Guide/issues"
+  },
+  "homepage": "https://github.com/baophung445/-NodeJS---The-Complete-Guide#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
